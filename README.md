@@ -6,9 +6,9 @@ I am a junior data scientist with an intermediary level of experience in data an
 
 
 
-*Skills:
+Skills:
 
-*🐍Python 
+* 🐍Python 
 * C++ ;
 * 📅SQL
 * 📶R
