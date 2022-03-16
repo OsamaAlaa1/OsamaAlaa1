@@ -1,4 +1,4 @@
-### Hi there 👋, I am Osama Ala'a 
+### Hi there 👋, I'm Osama Ala'a 
 #### Data Scientist - Bioinformatician
 ![Data Scientist - Bioinformatician](https://media-exp1.licdn.com/dms/image/C4D16AQHmn5GRw2gT2A/profile-displaybackgroundimage-shrink_350_1400/0/1604084464936?e=1652918400&v=beta&t=nAzIcxMd2VegL3Vav1D6mDuqD8vyVnHciOWSG-1spVM)
 
@@ -6,7 +6,11 @@ I am a junior data scientist with an intermediary level of experience in data an
 
 
 
-Skills: Python / C++ / SQL / R
+Skills: 
+🐍Python 
+ C++ ;
+ 📅SQL
+ 📶R
 
  
 
