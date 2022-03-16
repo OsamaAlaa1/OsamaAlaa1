@@ -7,10 +7,10 @@ I am a junior data scientist with an intermediary level of experience in data an
 
 
 Skills: 
-🐍Python 
- C++ ;
- 📅SQL
- 📶R
+*🐍Python 
+* C++ ;
+* 📅SQL
+* 📶R
 
  
 
