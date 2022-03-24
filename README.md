@@ -20,6 +20,9 @@ I am a junior data scientist with an intermediary level of experience in data an
 
 ![GitHub metrics](https://metrics.lecoq.io/OsamaAlaa1)  
 
-![image](https://user-images.githubusercontent.com/67195086/159907355-80f426f8-4bf1-447c-8560-1e0573a427b1.png)
+
+
+### My Resume
+![resume](https://user-images.githubusercontent.com/67195086/159907591-e79b85c7-a97c-4e9e-ac3e-359b93801a46.png)
 
 
