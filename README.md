@@ -19,7 +19,7 @@ I am a junior data scientist with an intermediary level of experience in data an
   <a href="https://fb.com/osamaalaa20" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/128/3670/premium/3670124.png?token=exp=1651593278~hmac=4d454ed1635fd8ccc034c115bf909310" alt="osamaalaa20" height="40" width="40" /></a>
   
   <a href="https://www.youtube.com/c/eldeveloper" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/185/185983.png" alt="eldeveloper" height="40" width="40" /></a> 
-    <a href="https://www.youtube.com/c/eldeveloper" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/400/400425.png" alt="eldeveloper" height="40" width="40" /></a> 
+ <p>Youtube</p>
   
 </p>
 
