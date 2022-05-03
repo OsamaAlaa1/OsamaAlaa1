@@ -10,6 +10,8 @@ I am a junior data scientist with an intermediary level of experience in data an
 
 <h2 align="left">Social Media:</h2>
 <p align="left">
+  
+  
 
   <a href="https://www.kaggle.com/osamaalaa2001/" target="_blank" rel="noreferrer"> <img align="right" src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" width="150" height="150"/> </a>
 
@@ -21,6 +23,8 @@ I am a junior data scientist with an intermediary level of experience in data an
   <a href="https://www.youtube.com/c/eldeveloper" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/185/185983.png" alt="eldeveloper" height="40" width="40" text="youtube"/></a>     - @eldeveloper
   
 </p>
+
+
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
