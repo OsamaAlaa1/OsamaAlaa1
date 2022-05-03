@@ -20,7 +20,7 @@ I am a junior data scientist with an intermediary level of experience in data an
 
 <h3 align="left">Operating Systems:</h3>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer"> <img src="https://www.flaticon.com/free-icon/windows_270831" alt="Windows" width="40" height="40"/> </a> </p>
+<a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/270/270831.png" alt="Windows" width="40" height="40"/> </a> </p>
 
 
 ![GitHub metrics](https://metrics.lecoq.io/OsamaAlaa1)  
