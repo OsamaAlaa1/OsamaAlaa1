@@ -1,4 +1,4 @@
-# Osama Ala'a Mohammed![image]<img  src="https://user-images.githubusercontent.com/67195086/166493247-50422cdd-494f-4349-a7f0-df847179d9f7.png" alt="Kaggle" width="50" height="50"/>
+# Osama Ala'a Mohammed <img align= "right" src="https://user-images.githubusercontent.com/67195086/166493247-50422cdd-494f-4349-a7f0-df847179d9f7.png" alt="Kaggle" width="50" height="50"/>
 ### Data Scientist - Bioinformatician
 ![Data Scientist - Bioinformatician 💻👨‍⚕️](https://media-exp1.licdn.com/dms/image/C4D16AQHmn5GRw2gT2A/profile-displaybackgroundimage-shrink_350_1400/0/1604084464936?e=1652918400&v=beta&t=nAzIcxMd2VegL3Vav1D6mDuqD8vyVnHciOWSG-1spVM)
 
