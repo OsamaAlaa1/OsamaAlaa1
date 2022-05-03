@@ -20,7 +20,7 @@ I am a junior data scientist with an intermediary level of experience in data an
 
 <h3 align="left">Operating Systems:</h3>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://preview.redd.it/4iu0s8lekb671.png?auto=webp&s=cc12c2a131e8ec0bfdf643c0a77cec86701a337b" alt="linux" width="40" height="40"/> </a> </p>
 
 
 ![GitHub metrics](https://metrics.lecoq.io/OsamaAlaa1)  
