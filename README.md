@@ -12,9 +12,8 @@ I am a junior data scientist with an intermediary level of experience in data an
 <p align="left">
 <a href="https://linkedin.com/in/osamaalaa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osamaalaa1" height="30" width="40" /></a>
 <a href="https://fb.com/osamaalaa20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="osamaalaa20" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/eldeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eldeveloper" height="30" width="40" /></a>
-  
-  <a href="https://www.kaggle.com/osamaalaa2001/" target="_blank" rel="noreferrer"> <img align="right" src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" width="250" height="250"/> </a></p>
+<a href="https://www.youtube.com/c/eldeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eldeveloper" height="30" width="40" /></a> 
+  <a href="https://www.kaggle.com/osamaalaa2001/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" width="200" height="200"/> </a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
