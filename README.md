@@ -10,7 +10,8 @@ I am a junior data scientist with an intermediary level of experience in data an
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
-  
+
+  <h3 align="right"> View My:</h3>
 <a href="https://www.kaggle.com/osamaalaa2001/" target="_blank" rel="noreferrer"> <img align="right" src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" width="150" height="150"/> </a>
 <a href="https://linkedin.com/in/osamaalaa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osamaalaa1" height="30" width="40" /></a>
 <a href="https://fb.com/osamaalaa20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="osamaalaa20" height="30" width="40" /></a>
