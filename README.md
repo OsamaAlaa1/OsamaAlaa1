@@ -11,7 +11,7 @@ I am a junior data scientist with an intermediary level of experience in data an
 <h2 align="left">Social Media:</h2>
 <p align="left">
 <a href="https://www.kaggle.com/osamaalaa2001/" target="_blank" rel="noreferrer"> <img align="right" src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" width="150" height="150"/> </a>
-<a href="https://linkedin.com/in/osamaalaa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osamaalaa1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/osamaalaa1" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/128/1377/premium/1377213.png?token=exp=1651592934~hmac=0e7c8f41967627132a971236a17ea1b1" alt="osamaalaa1" height="30" width="40" /></a>
 <a href="https://fb.com/osamaalaa20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="osamaalaa20" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/eldeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eldeveloper" height="30" width="40" /></a> 
 </p>
