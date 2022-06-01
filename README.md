@@ -1,4 +1,4 @@
-# Osama Ala'a Mohammed <img alt="data scientist" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+#  👨🏻‍💻 Osama Ala'a Mohammed 
 
 ![Github Banner](https://github.com/OsamaAlaa1/OsamaAlaa1/blob/main/1604084464936.jpeg)
 
