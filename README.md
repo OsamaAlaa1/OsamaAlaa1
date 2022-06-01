@@ -16,12 +16,7 @@ I am a junior data scientist with an intermediary level of experience in data an
 
 <p align="left">
   
-  <a href="https://www.kaggle.com/osamaalaa2001" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="osamaalaa2001" height="60" width="70" /></a>
-  
-<a href="https://linkedin.com/in/osama-ala-a-mohammed-3061451aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama-ala-a-mohammed-3061451aa/" height="30" width="40" /></a>
-  
-  
-<a href="https://www.youtube.com/c/ucfhvscxnnjohq__uk7rzfhg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfhvscxnnjohq__uk7rzfhg" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/osamaalaa2001" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="osamaalaa2001" height="60" width="70" /></a><a href="https://linkedin.com/in/osama-ala-a-mohammed-3061451aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama-ala-a-mohammed-3061451aa/" height="30" width="40" /></a><a href="https://www.youtube.com/c/ucfhvscxnnjohq__uk7rzfhg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfhvscxnnjohq__uk7rzfhg" height="30" width="40" /></a>
 </p>
 
 
@@ -35,7 +30,6 @@ I am a junior data scientist with an intermediary level of experience in data an
 <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/270/270831.png" alt="Windows" width="40" height="40"/> </a> </p>
 
 
-![GitHub metrics]"https://metrics.lecoq.io/OsamaAlaa1"  
 
 
 
