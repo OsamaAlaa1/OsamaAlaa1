@@ -38,6 +38,11 @@ I am a junior data scientist with an intermediary level of experience in data an
 <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/270/270831.png" alt="Windows" width="40" height="40"/> </a> </p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osamaalaa1&show_icons=true&locale=en&layout=compact" alt="osamaalaa1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osamaalaa1&show_icons=true&locale=en" alt="osamaalaa1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osamaalaa1&" alt="osamaalaa1" /></p>
 
 
 
