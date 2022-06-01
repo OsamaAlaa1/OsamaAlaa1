@@ -1,8 +1,5 @@
 #  👨🏻‍💻 Osama Ala'a Mohammed 
-
-<p align="center">
 ![Github Banner](https://github.com/OsamaAlaa1/OsamaAlaa1/blob/main/1604084464936.jpeg)
-</p>
 
 ## Data Scientist - Bioinformatician
 
@@ -39,14 +36,7 @@ I am a junior data scientist with an intermediary level of experience in data an
 <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/270/270831.png" alt="Windows" width="40" height="40"/> </a> </p>
 
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=osamaalaa1&show_icons=true&locale=en&layout=compact" alt="osamaalaa1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=osamaalaa1&show_icons=true&locale=en&layout=compact" alt="osamaalaa1"/>
-</a>
-</p>
 
 
 
