@@ -23,10 +23,7 @@ I am a junior data scientist with an intermediary level of experience in data an
   
 <a href="https://www.youtube.com/c/ucfhvscxnnjohq__uk7rzfhg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfhvscxnnjohq__uk7rzfhg" height="30" width="40" /></a>
 </p>
-  
-  <a href="https://www.youtube.com/c/eldeveloper" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/185/185983.png" alt="eldeveloper" height="40" width="40" text="youtube"/></a>     - @eldeveloper
-  
-</p>
+
 
 
 
@@ -38,7 +35,7 @@ I am a junior data scientist with an intermediary level of experience in data an
 <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/270/270831.png" alt="Windows" width="40" height="40"/> </a> </p>
 
 
-![GitHub metrics](https://metrics.lecoq.io/OsamaAlaa1)  
+![GitHub metrics]"https://metrics.lecoq.io/OsamaAlaa1"  
 
 
 
