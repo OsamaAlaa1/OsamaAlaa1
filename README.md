@@ -1,5 +1,5 @@
 # Osama Ala'a Mohammed 
-<img align="center" src="[https://media-exp1.licdn.com/dms/image/C4D16AQHmn5GRw2gT2A/profile-displaybackgroundimage-shrink_200_800/0/1604084464936?e=1659571200&v=beta&t=9OF9rqXUVcLHCvcFHu-xvQKZsRTBvKGrPUj1vz_JtfU](https://github.com/OsamaAlaa1/OsamaAlaa1/blob/main/1604084464936.jpeg)"/>
+[<img align="center" src="[https://media-exp1.licdn.com/dms/image/C4D16AQHmn5GRw2gT2A/profile-displaybackgroundimage-shrink_200_800/0/1604084464936?e=1659571200&v=beta&t=9OF9rqXUVcLHCvcFHu-xvQKZsRTBvKGrPUj1vz_JtfU](https://github.com/OsamaAlaa1/OsamaAlaa1/blob/main/1604084464936.jpeg)"/>]
 
 ## Data Scientist - Bioinformatician
 
