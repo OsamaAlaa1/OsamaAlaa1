@@ -25,7 +25,7 @@ I am a junior data scientist with an intermediary level of experience in data an
   <a href="https://www.kaggle.com/osamaalaa2001" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="osamaalaa2001" height="60" width="70" /></a>
   <a href="https://www.hackerrank.com/OsamaAlaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="OsamaAlaa" height="60" width="70" /></a>
    <a href="https://public.tableau.com/app/profile/osama.ala.a.mohammed" target="blank"><img align="center" src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" alt="osama.ala.a.mohammed" height="60" width="287.784431" /></a>
-   <a href="https://app.datacamp.com/profile/oosamaalaa" target="blank"><img align="center" src="DC_logo_new_56cef25cde.png" alt="osamaalaa" height="50" width="50" /></a>
+        <a href="https://app.datacamp.com/profile/oosamaalaa" target="blank"><img align="center" src="DC_logo_new_56cef25cde.png" alt="osamaalaa" height="40" width="40" /></a>
   
 </p>
 
