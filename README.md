@@ -21,8 +21,6 @@ I am a junior data scientist with an intermediary level of experience in data an
   
   <a href="https://linkedin.com/in/osama-ala-a-mohammed-3061451aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama-ala-a-mohammed-3061451aa/" height="30" width="40" /></a>
  <a href="https://www.youtube.com/c/ucfhvscxnnjohq__uk7rzfhg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfhvscxnnjohq__uk7rzfhg" height="30" width="40" /></a>
-  <a href="https://app.datacamp.com/profile/oosamaalaa" target="blank"><img align="center" src="regular.png" alt="osamaalaa" height="40" width="192.222222
-" /></a>
   <a href="https://osama-alaa.dorik.io/" target="blank"><img align="center" src="https://cdn.dorik.com/6231c5ff317f6e0012e1bed0/6231c652317f6e0012e1bed5/images/logo3_6935m00s.png" alt="ucfhvscxnnjohq__uk7rzfhg" height="40" width="40" /></a>
   <a href="https://www.kaggle.com/osamaalaa2001" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="osamaalaa2001" height="60" width="70" /></a>
   <a href="https://www.hackerrank.com/OsamaAlaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="OsamaAlaa" height="60" width="70" /></a>
