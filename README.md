@@ -1,4 +1,4 @@
-#  👨🏻‍💻 Osama Ala'a Mohammed 
+#  👨🏻‍💻 Osama Alaa Mohammed 
 ![Github Banner](https://github.com/OsamaAlaa1/OsamaAlaa1/blob/main/1604084464936.jpeg)
 
 ## Data Scientist - Bioinformatician
