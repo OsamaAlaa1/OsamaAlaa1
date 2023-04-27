@@ -3,7 +3,9 @@
 
 ## Data Scientist - Bioinformatician
 
-I am a junior data scientist with an intermediary level of experience in data analysis and prediction section with machine learning Models using python. Additionally, I had statistical skills and the needed knowledge of math fundamentals in the field of data treatment. also as I was a student at Cairo University I learned many of computer science essential concepts to write an efficient code not just effective.
+A skilled junior data scientist with +2 years of experience in Python, I have successfully designed and implemented complex NLP and ML models leveraging my expertise in mathematics, statistics, data structures, and algorithms. 
+
+With proficiency in SQL, I have efficiently queried databases to extract and process large volumes of data. Seeking to take my career to the next level, I am now looking to channel my technical prowess and knowledge of industry best practices toward developing innovative machine-learning solutions that optimize business efficiency and generate impactful insights.
 
 
 
