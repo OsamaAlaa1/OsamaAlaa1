@@ -3,9 +3,11 @@
 
 ## Data Scientist - Bioinformatician
 
-A skilled junior data scientist with +2 years of experience in Python, I have successfully designed and implemented complex NLP and ML models leveraging my expertise in mathematics, statistics, data structures, and algorithms. 
+As a Passionate and innovative Data Scientist with a strong foundation in mathematics, statistics, and programming, I thrive on building and deploying cutting-edge machine-learning models that unlock the hidden potential of data. 
 
-With proficiency in SQL, I have efficiently queried databases to extract and process large volumes of data. Seeking to take my career to the next level, I am now looking to channel my technical prowess and knowledge of industry best practices toward developing innovative machine-learning solutions that optimize business efficiency and generate impactful insights.
+My expertise lies in harnessing the power of deep learning and natural language processing to decipher sentiments and unlock valuable insights through transformers, with a solid command of Python and renowned libraries like Sklearn, TensorFlow, and PyTorch, managing and analyzing complex datasets. 
+
+Bring advanced technical skills to the table. By implementing MLOPS practices and leveraging AWS, I ensure scalable and robust model deployments. Let's embark on an exciting journey together to unravel the mysteries hidden within data to pave the way for game-changing decisions.
 
 
 
