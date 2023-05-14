@@ -3,7 +3,7 @@
 
 ## Data Scientist - Bioinformatician
 
-As a Passionate and innovative Data Scientist with a strong foundation in mathematics, statistics, and programming, I thrive on building and deploying cutting-edge machine-learning models that unlock the hidden potential of data. 
+Passionate and innovative Data Scientist with a strong foundation in mathematics, statistics, and programming, I thrive on building and deploying cutting-edge machine-learning models that unlock the hidden potential of data. 
 
 My expertise lies in harnessing the power of deep learning and natural language processing to decipher sentiments and unlock valuable insights through transformers, with a solid command of Python and renowned libraries like Sklearn, TensorFlow, and PyTorch, managing and analyzing complex datasets. 
 
