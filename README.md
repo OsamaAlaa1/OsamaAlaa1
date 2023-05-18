@@ -5,7 +5,9 @@
 
 Passionate and innovative Data Scientist with a strong foundation in mathematics, statistics, SQL, and programming,  By implementing MLOPS practices and leveraging AWS, I thrive on building and deploying cutting-edge machine-learning models that unlock the hidden potential of data.
 
-My expertise lies in harnessing the power of deep learning and natural language processing with a solid command of Python, transformers, Sklearn, TensorFlow, and PyTorch frameworks, and ready to unravel the mysteries hidden within data to pave the way for game-changing decisions.
+My expertise lies in harnessing the power of deep learning and natural language processing with a solid command of Python, transformers, and frameworks like Sklearn, TensorFlow, and PyTorch, and ready to unravel the mysteries hidden within data to pave the way for game-changing decisions.
+
+
 
 
 
