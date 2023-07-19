@@ -3,11 +3,9 @@
 
 ## Data Scientist - Bioinformatician
 
-Passionate and innovative Data Scientist with a strong foundation in mathematics, statistics, SQL, and programming,  By implementing MLOPS practices and leveraging AWS, I thrive on building and deploying cutting-edge machine-learning models that unlock the hidden potential of data.
+Passionate and innovative Data Scientist with a strong foundation in mathematics, statistics, and programming,  By implementing end-to-end applications on AWS, I thrive on building and deploying cutting-edge machine-learning models that unlock the hidden potential of data.
 
-My expertise lies in harnessing the power of deep learning and natural language processing with a solid command of Python, transformers, and frameworks like Sklearn, TensorFlow, and PyTorch, and ready to unravel the mysteries hidden within data to pave the way for game-changing decisions.
-
-
+My expertise lies in harnessing the power of deep learning and natural language processing to unlock valuable insights with a solid command of Python and renowned libraries like Sklearn, TensorFlow, and PyTorch, completely ready to unravel the mysteries to pave the way for game-changing decisions.
 
 
 
