@@ -1,11 +1,11 @@
 #  👨🏻‍💻 Osama Alaa Mohammed 
 ![Github Banner](https://github.com/OsamaAlaa1/OsamaAlaa1/blob/main/1604084464936.jpeg)
 
-## Data Scientist - Bioinformatician
+## Machine Learning Engineer
 
-Passionate and innovative Data Scientist with a strong foundation in mathematics, statistics, and programming,  By implementing end-to-end applications on AWS, I thrive on building and deploying cutting-edge machine-learning models that unlock the hidden potential of data.
+As a Machine Learning and NLP Engineer at Autosa AI, I am proud to build and deploy cutting-edge solutions that unlock the hidden potential of data. With Python and renowned libraries like Sklearn, TensorFlow, and PyTorch, I harness the power of deep learning and natural language processing to help businesses make game-changing decisions. 
 
-My expertise lies in harnessing the power of deep learning and natural language processing to unlock valuable insights with a solid command of Python and renowned libraries like Sklearn, TensorFlow, and PyTorch, completely ready to unravel the mysteries to pave the way for game-changing decisions.
+My strong foundation in mathematics, statistics, and programming, along with my passion and innovation, allow me to solve complex problems and uncover valuable insights with data. I'm driven by the desire to pave the way for a brighter future through my skills and expertise.
 
 
 
